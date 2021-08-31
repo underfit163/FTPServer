@@ -1,0 +1,8 @@
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Laba3f.csproj.GenerateResource.cache
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\laba3f.exe.config
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\laba3f.exe
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\laba3f.pdb
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\laba3f.Properties.Resources.resources
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\laba3f.exe
+C:\Users\163ty\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\laba3f.pdb
