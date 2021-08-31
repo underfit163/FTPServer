@@ -11,3 +11,4 @@ Acquisition of skills in working with the FTP file transfer protocol and writing
 Адрес FTP-сервера, имя пользователя и пароль вводятся пользователем.
 
 ## Результат выполнения программы
+![image](https://user-images.githubusercontent.com/81982349/131567027-681e9b08-af2b-477d-afe1-0433334c6769.png)
